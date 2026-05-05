@@ -57,9 +57,9 @@
     }
   ],
   "theme": {
-    "backgroundColor": "#F5EAD3",
-    "primaryColor": "#2449a6",
-    "accentColor": "#ed4024"
+    "backgroundColor": "#F5EFEB",
+    "primaryColor": "#567C8D",
+    "accentColor": "#2F4156"
   },
   "navbar": {
     "brand": "Brand",
