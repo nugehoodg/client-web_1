@@ -1,5 +1,5 @@
 {
-  "name": "Your Name",
+  "name": "Diana Nadia Maulida",
   "professionalTitle": "Graphic Designer",
   "status": "Available Now!",
   "profileImage": "/img/Concern_01.png",
@@ -57,9 +57,9 @@
     }
   ],
   "theme": {
-    "backgroundColor": "#F5EFEB",
-    "primaryColor": "#2F4156",
-    "accentColor": "#C8D9E6"
+    "backgroundColor": "#F5EAD3",
+    "primaryColor": "#2449a6",
+    "accentColor": "#ed4024"
   },
   "navbar": {
     "brand": "Brand",
