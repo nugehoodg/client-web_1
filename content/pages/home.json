@@ -7,15 +7,15 @@
   "bentoItems": [
     {
       "title": "Download CV",
-      "description": "Download professional resume \ud83d\udcc4",
+      "description": "Download professional resume 📄",
       "link": "#resume",
-      "icon": "\ud83e\udd13",
+      "icon": "🤓",
       "size": "big",
       "style": "primary-gradient"
     },
     {
       "title": "LinkedIn",
-      "description": "Professional Network \ud83d\udc54",
+      "description": "Professional Network 👔",
       "link": "#",
       "icon": "linkedin-svg",
       "size": "long",
@@ -23,7 +23,7 @@
     },
     {
       "title": "Instagram",
-      "description": "Follow for updates \u2728",
+      "description": "Follow for updates ✨",
       "link": "#",
       "icon": "instagram-svg",
       "size": "small",
@@ -31,16 +31,13 @@
     },
     {
       "title": "Let's Talk!",
-      "description": "Get in touch \ud83d\udce8",
+      "description": "Get in touch 📨",
       "link": "mailto:contact@yourdomain.com",
-      "icon": "\ud83d\udc4b",
+      "icon": "👋",
       "size": "small",
       "style": "accent-solid"
     }
   ],
-  "footer": {
-    "text": "\u00a9 2026 Your Brand. All rights reserved."
-  },
   "services": [
     {
       "label": "Service One",
@@ -59,6 +56,11 @@
       "icon": "🎯"
     }
   ],
+  "theme": {
+    "backgroundColor": "#F5EFEB",
+    "primaryColor": "#2F4156",
+    "accentColor": "#C8D9E6"
+  },
   "navbar": {
     "brand": "Brand",
     "navLinks": [
@@ -76,9 +78,7 @@
       }
     ]
   },
-  "theme": {
-    "backgroundColor": "#F5EAD3",
-    "primaryColor": "#2449a6",
-    "accentColor": "#ed4024"
+  "footer": {
+    "text": "© 2026 Your Brand. All rights reserved."
   }
 }
