@@ -1,0 +1,84 @@
+{
+  "name": "Your Name",
+  "professionalTitle": "Graphic Designer",
+  "status": "Available Now!",
+  "profileImage": "/img/Concern_01.png",
+  "description": "A highly motivated professional with extensive experience. Delivering high-quality results and value. Passionate about creating impact and achieving excellence in every project.",
+  "bentoItems": [
+    {
+      "title": "Download CV",
+      "description": "Download professional resume \ud83d\udcc4",
+      "link": "#resume",
+      "icon": "\ud83e\udd13",
+      "size": "big",
+      "style": "primary-gradient"
+    },
+    {
+      "title": "LinkedIn",
+      "description": "Professional Network \ud83d\udc54",
+      "link": "#",
+      "icon": "linkedin-svg",
+      "size": "long",
+      "style": "white-outline"
+    },
+    {
+      "title": "Instagram",
+      "description": "Follow for updates \u2728",
+      "link": "#",
+      "icon": "instagram-svg",
+      "size": "small",
+      "style": "warning-gradient"
+    },
+    {
+      "title": "Let's Talk!",
+      "description": "Get in touch \ud83d\udce8",
+      "link": "mailto:contact@yourdomain.com",
+      "icon": "\ud83d\udc4b",
+      "size": "small",
+      "style": "accent-solid"
+    }
+  ],
+  "footer": {
+    "text": "\u00a9 2026 Your Brand. All rights reserved."
+  },
+  "services": [
+    {
+      "label": "Service One",
+      "icon": "🚀"
+    },
+    {
+      "label": "Service Two",
+      "icon": "✨"
+    },
+    {
+      "label": "Service Three",
+      "icon": "💡"
+    },
+    {
+      "label": "Service Four",
+      "icon": "🎯"
+    }
+  ],
+  "navbar": {
+    "brand": "Brand",
+    "navLinks": [
+      {
+        "label": "About",
+        "link": "#about"
+      },
+      {
+        "label": "Projects",
+        "link": "#projects"
+      },
+      {
+        "label": "Experience",
+        "link": "#experience"
+      }
+    ]
+  },
+  "theme": {
+    "backgroundColor": "#F5EAD3",
+    "primaryColor": "#2449a6",
+    "accentColor": "#ed4024"
+  }
+}
